@@ -1,0 +1,7 @@
+/* Add to your CSS file */
+.autocomplete-list-item:hover {
+  background-color: #e0e0e0;
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 3px;
+}
