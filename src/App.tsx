@@ -10,6 +10,7 @@ function App() {
       style={{ display: "flex", alignItems: "center", justifyItems: "center" }}
     >
       <main>main content</main>
+      <h1>heading</h1>
       <Navbar />
       <UseRef />
     </div>
