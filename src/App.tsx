@@ -11,6 +11,7 @@ function App() {
     >
       <main>main content</main>
       <h1>heading</h1>
+      <p>paragraf</p>
       <Navbar />
       <UseRef />
     </div>
