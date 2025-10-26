@@ -32,6 +32,7 @@ export default function AutoComplete({
     setOpen(false);
     setFiltered([]);
   };
+  const [data, setData] = useState();
 
   useEffect(() => {
     const handler = setTimeout(() => {

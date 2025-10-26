@@ -14,4 +14,5 @@ export const CAR_BRANDS: CarBrandsTypeOption[] = [
   { id: "ford", label: "Ford" },
   { id: "chevrolet", label: "Chevrolet" },
   { id: "honda", label: "Honda" },
+  { id: "nissan", label: "Nissan" },
 ];
